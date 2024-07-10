@@ -1,0 +1,55 @@
+.header {
+  padding: 50px;
+  margin-left: 20%;
+  background-size: 150px;
+  background-position: left;
+  background-image: url(../imgs/3.png);
+  background-repeat: no-repeat;
+}
+.tittle {
+  padding-top: 50px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-left: 10%;
+}
+.header p {
+  font-size: 40px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #ea2230;
+  margin-left: 10%;
+  margin-top: 0%;
+}
+.imagen-logo {
+  width: 100%;
+}
+.products {
+  width: 80%;
+  margin: auto;
+}
+.products td {
+  width: 50%;
+  padding: 2em;
+}
+.products img {
+  width: 100%;
+  border: solid 1px #ddd;
+}
+
+.footer {
+  background-color: #ea2230;
+  color: white;
+  text-align: center;
+  font-weight: 900;
+  font-size: x-large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.text {
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#text2 {
+  color: #ea2230;
+}
